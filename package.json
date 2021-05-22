@@ -1,0 +1,21 @@
+{
+    "name": "github-dank-dimmed",
+    "displayName": "Github Dank Dimmed",
+    "description": "Redesigned GitHub Dark Dimmed that is just slightly more dank.  Created to suit my needs.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Github Dank Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Github Dank Dimmed-color-theme.json"
+            }
+        ]
+    }
+}
