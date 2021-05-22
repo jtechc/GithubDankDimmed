@@ -6,7 +6,7 @@
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zytesas/ginit-revamped"
+        "url": "https://github.com/zytesas/GithubDankDimmed"
     },
     "engines": {
         "vscode": "^1.56.0"
