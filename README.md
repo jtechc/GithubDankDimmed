@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "github-dank-dimmed"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Github Dank Dimmed
+## Welcome to Github Dank Dimmed - a Revamp
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Redesigned GitHub Dark Dimmed that is just slightly more dank.  Created to suit my needs.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Notice/Note
+
+This is a redesign/revamp made solely to fit my own taste/needs.  This does not represent and official change to the public theme named Github Dark Dimmed.
 
 **Enjoy!**
