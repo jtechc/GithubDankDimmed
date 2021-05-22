@@ -24,7 +24,7 @@
             {
                 "label": "Github Dank Dimmed",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Github Dank Dimmed-color-theme.json"
+                "path": "./themes/dank-dimmed.json"
             }
         ]
     },
