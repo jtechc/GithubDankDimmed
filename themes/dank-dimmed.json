@@ -121,7 +121,7 @@
     "editor.wordHighlightStrongBackground": "#17E5E600",
     "editor.wordHighlightBorder": "#17E5E699",
     "editor.wordHighlightStrongBorder": "#17E5E666",
-    "editorBracketMatch.background": "#17E5E6BF",
+    "editorBracketMatch.background": "#17E5E680",
     "editorBracketMatch.border": "#7E17E680",
     "editorGutter.modifiedBackground": "#966600",
     "editorGutter.addedBackground": "#2b6a30",

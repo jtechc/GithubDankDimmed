@@ -150,7 +150,7 @@ function getTheme({ theme, name }) {
       "editor.wordHighlightStrongBackground": themes({ danker: "#17E5E600", dank: "#17E5E600" }),
       "editor.wordHighlightBorder": themes({ danker: "#17E5E699", dank: "#17E5E699" }),
       "editor.wordHighlightStrongBorder": themes({ danker: "#17E5E666", dank: "#17E5E666" }),
-      "editorBracketMatch.background": themes({ danker: "#17E5E650", dank: "#17E5E6BF" }),
+      "editorBracketMatch.background": themes({ danker: "#17E5E650", dank: "#17E5E680" }),
       "editorBracketMatch.border": themes({ danker: "#17E5E600", dank: "#7E17E680" }),
 
       "editorGutter.modifiedBackground": color.diff.change.border,
