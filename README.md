@@ -5,6 +5,6 @@ Redesigned GitHub Dark Dimmed that is just slightly more dank.  Created to suit 
 
 ### Notice/Note
 
-This is a redesign/revamp made solely to fit my own taste/needs.  This does not represent and official change to the public theme named Github Dark Dimmed.
+This is a redesign/revamp made solely to fit my own taste/needs.  This does not represent an official change to the public theme named Github Dark Dimmed.
 
 **Enjoy!**
